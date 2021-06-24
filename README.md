@@ -22,6 +22,17 @@ Hello there this is **Siddhesh Shinde**. I'm a **B.Tech CSE Student**, **Competi
 </table>
  
  </p>
+ 
+ </br>
+ 
+ <h2 align='center'><i>Activity Graph 📈</i></h2>
+<p align="center">
+<a href="">
+ <img src="https://activity-graph.herokuapp.com/graph?username=SiddheshShinde-tech&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+
+</br>
 
 <!--
 **SiddheshShinde-tech/SiddheshShinde-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
