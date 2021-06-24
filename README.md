@@ -109,6 +109,13 @@ Hello there this is **Siddhesh Shinde**. I'm a **B.Tech CSE Student**, **Competi
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshShinde-tech&layout=compact&theme=vue-dark" />
 </p>
+</br>
+
+<!-- <p align="center">
+ ![](https://komarev.com/ghpvc/?username=SiddheshShinde-tech&style=flat-square&color=brightgreen)
+</p> -->
+
+# ![SiddheshShinde-tech](https://komarev.com/ghpvc/?username=SiddheshShinde-tech&style=flat-square&color=brightgreen)
 
 <!--
 **SiddheshShinde-tech/SiddheshShinde-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
