@@ -10,13 +10,13 @@ Hello there this is **Siddhesh Shinde**. I'm a **B.Tech CSE Student**, **Competi
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/AshutoshD07"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="60"></a>
+        <a href="https://wa.link/19f904"><img src="https://image.flaticon.com/icons/png/512/733/733585.png" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>
+        <a href="https://www.instagram.com/emphatic_guy/"><img src="https://image.flaticon.com/icons/png/512/1384/1384063.png" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
+        <a href="https://www.linkedin.com/in/siddheshshinde17/"><img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="60"></a>
     </td>
 </tr>
 </table>
