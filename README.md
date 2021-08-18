@@ -95,11 +95,13 @@ Hello there this is **Siddhesh Shinde**. I'm a **B.Tech CSE Student**, **Competi
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 </br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SiddheshShinde-tech&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
+<img src="https://github-readme-stats.vercel.app/api?username=SiddheshShinde-tech&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&bg_color=000000" height="205">
 </p>
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshShinde-tech&layout=compact&theme=vue-dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SiddheshShinde-tech&theme=great-gatsby&sideNums=3DA47A&ring=3DA47A&border=3DA47A&currStreakNum=3DA47A&background=000000">
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshShinde-tech&layout=compact&theme=vue-dark&bg_color=000000" />
 </p>
 </br>
 
