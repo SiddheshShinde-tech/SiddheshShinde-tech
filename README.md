@@ -90,13 +90,6 @@ Hello there this is **Siddhesh Shinde**. I'm a **B.Tech CSE Student**, **Competi
 </tr>
 </table>
 
-<!-- <h2 align='center'><i>Top Repos</i></h2>
-
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
-</a>
-</p> -->
 </br>
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
@@ -106,14 +99,9 @@ Hello there this is **Siddhesh Shinde**. I'm a **B.Tech CSE Student**, **Competi
 </p>
 
 <p align="center">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshShinde-tech&layout=compact&theme=vue-dark" />
 </p>
 </br>
-
-<!-- <p align="center">
- ![](https://komarev.com/ghpvc/?username=SiddheshShinde-tech&style=flat-square&color=brightgreen)
-</p> -->
 
 # ![SiddheshShinde-tech](https://komarev.com/ghpvc/?username=SiddheshShinde-tech&style=flat-square&color=brightgreen)
 
