@@ -104,7 +104,12 @@ Hello there this is **Siddhesh Shinde**. I'm a **B.Tech CSE Student**, **Competi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshShinde-tech&layout=compact&theme=vue-dark&bg_color=000000&border_color=39FF14&text_color=39FF14&title_color=39FF14&icon_color=39FF14" />
 </p>
 </br>
-
+<h2 align='center'><i>Project Blogs🌱</i></h2>
+</br>
+<p align="center">
+1. Soothe - Mental Health Web Application <a href="https://hashnode.com/post/soothe-ckmuudrdd02494ts14ra7fnmo">View</a>
+</p>
+</br>
 # ![SiddheshShinde-tech](https://komarev.com/ghpvc/?username=SiddheshShinde-tech&style=flat-square&color=brightgreen)
 
 <!--
