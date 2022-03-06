@@ -10,7 +10,7 @@ Hello there this is **Siddhesh Shinde**. I'm a **B.Tech CSE Student**, **Competi
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://wa.link/19f904"><img src="https://image.flaticon.com/icons/png/512/733/733585.png" width="60"></a>
+        <a href="https://wa.link/19f904"><img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" width="60"></a>
     </td>
     <td align='center' width="60">
         <a href="https://www.instagram.com/empathic_guy/"><img src="https://image.flaticon.com/icons/png/512/1384/1384063.png" width="60"></a>
