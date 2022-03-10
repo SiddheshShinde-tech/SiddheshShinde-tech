@@ -110,7 +110,9 @@ Hello there this is **Siddhesh Shinde**. I'm a **B.Tech CSE Student**, **Competi
 1. Soothe - Mental Health Web Application <a href="https://hashnode.com/post/soothe-ckmuudrdd02494ts14ra7fnmo">View</a>
 </p>
 </br>
-# ![SiddheshShinde-tech](https://komarev.com/ghpvc/?username=SiddheshShinde-tech&style=flat-square&color=brightgreen)
+<!-- ![](https://komarev.com/ghpvc/?username=SiddheshShinde-tech&style=flat-square&color=brightgreen) -->
+<!-- ![](https://komarev.com/ghpvc/?username=your-github-username) -->
+<!-- [![Backers on Open Collective](https://opencollective.com/react-slick/backers/badge.svg)](#backers) -->
 
 <!--
 **SiddheshShinde-tech/SiddheshShinde-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
