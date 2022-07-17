@@ -73,7 +73,7 @@ Hello there this is **Siddhesh Shinde**. I'm a **B.Tech CSE Student**, **Competi
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://image.flaticon.com/icons/png/512/919/919827.png" width="60">
+        <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="60">
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
