@@ -3,7 +3,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"  width="400">
 
-Hello there this is **Siddhesh Shinde**. I'm a **B.Tech CSE Student**, **Competitive Programmer on Codechef(4-Star)**, **Full Stack Web Developer** and **Flutter Developer**. **Competitive Programming** helps me get a hold on  my coding and **Development** is something which allows me to work on the ideas which I visualise. I am a friendly guy with whom you can connect on social media, I would love to have you in my life. 
+Hello there this is **Siddhesh Shinde**. I'm a **B.Tech CSE Student**, **Competitive Programmer on Codechef(4-Star)**, **Full Stack Web Developer** and **Flutter Developer**. **Competitive Programming** helps me get a hold on  my problem solving skills and **Development** is something which allows me to work on the ideas which I visualise. I am a friendly guy with whom you can connect on social media, I would love to have you in my life. 
 <h4 align='center'><i>Social Media Handles</i></h4>
 <p align='center'>
  
